@@ -1,0 +1,14 @@
+{
+  "name": "com.felismajor.editortools",
+  "version": "0.9.0",
+  "displayName": "FM Editor Tools",
+  "description": "Editor tools for Unity",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Felis Major",
+    "url": "https://www.felismajor.com"
+  }
+}
